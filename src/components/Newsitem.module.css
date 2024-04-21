@@ -1,0 +1,43 @@
+
+
+
+
+.rjCard{
+        margin: 2vh 3vh;
+        height: 40rem;
+        /* background-color:#96bed6;
+        height:100px;
+        resize: both;
+        overflow: auto; */
+
+}
+
+.rjNewpage{
+        display: flex;
+        flex-wrap: wrap;
+        background-image: linear-gradient(lightgray, gray);
+        background-image: url('../public/News_BG.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        
+
+        
+}
+
+/* : 480×800, 640×1136, 720×1280, 750×1334, 1080×1920, and 1440×2560. */
+
+
+@media only screen and (max-width:520px){
+        
+        .rjCard{
+                margin: 2vh 10%;
+
+        }
+}
+
+/* @media only screen and (max-width: 720px) {
+        body{
+          background-color: lightblue;
+        }
+} */

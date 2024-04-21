@@ -1,0 +1,32 @@
+/* .body{
+  background-color: gray;
+
+
+} */
+.rj-navbar{
+  background-color: darkgray !important;
+  color: white !important;
+}
+
+.rj-head{
+  margin-top: 5px;
+  font-size: 2rem;
+}
+
+.rj-head-news{
+  background-color: red;
+  color: white;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+/* .card-body{
+  position: relative;
+}
+.rj-btn{
+  position: absolute;
+  left: 1vh;
+  /* top: 2vh; */
+  /* bottom: 1vh;
+} */ 
+
